@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🖼️ Ultra-HD Wallpaper Collection
-**A Premium 4K Wallpaper Repository for Desktops & Mobile**
+**A Premium 4K Wallpaper Repository for Desktops**
 
 [![Resolution - 4K UHD](https://img.shields.io/badge/Resolution-4K--UHD-blue?style=for-the-badge&logo=photo-library)](https://github.com/mehedishakeel/Wallpapers)
 [![Wallpaper Count - 29](https://img.shields.io/badge/Wallpapers-29-orange?style=for-the-badge)](https://github.com/mehedishakeel/Wallpapers)
