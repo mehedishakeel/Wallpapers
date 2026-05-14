@@ -9,14 +9,11 @@
 
 ---
 
-### 🌟 Highlights
-**Pure 4K (3840x2160)** • **Surgical Organization** • **Zero Bloat**
+**Pure 4K (3840x2160) Wallpapers**
 
 [Browse Gallery](#-wallpaper-gallery) • [Download Guide](#-how-to-download) • [Contact](#-contact)
 
 </div>
-
----
 
 ## 📸 Wallpaper Gallery
 *Click on any thumbnail to download the full 4K resolution image.*
