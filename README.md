@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖼️ Ultra-HD Wallpaper Collection
+# 🖼️ Wallpaper Collection By Mehedi Shakeel
 **A Premium 4K Wallpaper Repository for Desktops**
 
 [![Resolution - 4K UHD](https://img.shields.io/badge/Resolution-4K--UHD-blue?style=for-the-badge&logo=photo-library)](https://github.com/mehedishakeel/Wallpapers)
